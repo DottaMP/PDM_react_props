@@ -1,4 +1,7 @@
-Meu workspace: /c/Users/dotta/Documents/react/
+# Programação para Dispositivos Móveis
+## 5º Semestre do curso de *Análise e Desenvolvimento de Sistemas*
+
+Meu workspace: /c/Users/user/Documents/react/
 
 Para criar um novo projeto/aplicação:
 
